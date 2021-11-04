@@ -6,4 +6,4 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 SQLALCHEMY_ECHO = False
 SQLALCHEMY_TRACK_MODIFICATIONS = True
 # your SQL Database and Credentials in the format: 'sql://user@password/db-name'
-SQLALCHEMY_DATABASE_URI = 'postgresql://mailzulk:kudakuda@localhost/form'
+SQLALCHEMY_DATABASE_URI = '<your-database-credentials>'
